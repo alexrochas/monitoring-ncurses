@@ -1,0 +1,7 @@
+services:
+  - name: Google
+    url: https://www.google.com.br
+  - name: Twitter
+    url: https://twitter.com
+  - name: Failed API
+    url: https://mustfail.com
